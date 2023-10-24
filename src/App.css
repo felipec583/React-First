@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card img {
+  width: 220px;
+  height: 210px;
+  margin: 0 auto;
+  display: block;
+}
+
+.card {
+  padding: 15px;
+}
+
+footer {
+  border: 1px solid black;
+  border-radius: 10px;
+}
