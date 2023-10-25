@@ -1,8 +1,21 @@
-# React + Vite
+# Pets for adoption gallery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Description
 
-Currently, two official plugins are available:
+This is a basic website that displays a title, a row of cards, and a footer. I have used the JavaScript library React to create components for the header, cards, badge, and footer. The card components are designed to be reusable throughout the entire project, with props used to pass in the content.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To simplify the layout process, I have utilized the React-Bootstrap library, which provides pre-built components such as the cards.
+
+This website was created as a challenge for the bootcamp DesafíoLatam.
+
+# Take a look at the project
+
+Check out the website: [Pets for adoption website](https://felipec583.github.io/React-First/)
+
+
+
+# Acknowledgments
+
+* [React.dev](https://react.dev/)
+* [Desafío Latam](https://desafiolatam.com/)
+
